@@ -1,3 +1,5 @@
+meta_toys_and_Games.csv filter=lfs diff=lfs merge=lfs -text
+toys_and_games.csv filter=lfs diff=lfs merge=lfs -text
 *.pyc filter=lfs diff=lfs merge=lfs -text
 *.sqlite3 filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
