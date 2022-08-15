@@ -1,0 +1,1 @@
+{"Star Wars CommTech Reader": 2.9636363636363634, "Guesstures Game": 2.8954545454545455, "Boggle": 9.10909090909091, "Hasbro Scrabble Spanish": 20.804545454545448, "Clue 2005 Parker Brothers Classic Detective Game": 12.204545454545457, "Hasbro Monopoly": 5.7227272727272736}

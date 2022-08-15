@@ -1,0 +1,1 @@
+[["i", 47], ["love", 19], ["the", 18], ["one", 18], ["little", 15], ["my", 15], ["pieces", 14], ["loves", 14], ["year", 12], ["cute", 12], ["really", 12], ["great", 11], ["like", 10], ["this", 9], ["these", 9]]

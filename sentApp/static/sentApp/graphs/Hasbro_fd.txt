@@ -1,0 +1,1 @@
+[["great", 133], ["Great", 93], ["good", 81], ["Excellent", 60], ["Good", 56], ["Fun game", 55], ["Fun", 54], ["fun", 53], ["love it", 50], ["ok", 47], ["Great game", 46], ["Great!", 45], ["fun game", 42], ["nice", 42], ["excellent", 38]]

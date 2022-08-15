@@ -1,0 +1,1 @@
+[["it", 4], ["i", 4], ["loves", 4], ["my", 3], ["cheap", 2], ["every", 2], ["enjoys", 2], ["black", 2], ["white", 2], ["side", 2], ["holds", 2], ["bit", 2], ["the", 2], ["baby", 2], ["grandson", 2]]

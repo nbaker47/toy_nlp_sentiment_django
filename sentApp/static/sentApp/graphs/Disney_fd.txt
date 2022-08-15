@@ -1,0 +1,1 @@
+[["Great", 72], ["great", 56], ["good", 52], ["love it", 43], ["Excellent", 43], ["Good", 37], ["Love it", 36], ["Perfect", 32], ["nice", 31], ["ok", 26], ["Great!", 25], ["Cute", 25], ["excellent", 23], ["cute", 21], ["Nice", 20]]
