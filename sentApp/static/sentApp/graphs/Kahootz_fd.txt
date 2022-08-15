@@ -1,0 +1,1 @@
+[["Great", 8], ["nice", 6], ["great", 6], ["Gift", 5], ["love it", 5], ["granddaughter loves it", 4], ["gift", 4], ["fun", 4], ["Love it", 4], ["Good", 4], ["Kids love it", 4], ["good", 4], ["Granddaughter loves it", 4], ["Fun", 4], ["good product", 3]]
