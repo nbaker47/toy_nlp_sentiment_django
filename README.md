@@ -15,11 +15,11 @@ This is a sentiment analyer for toy brands. Powered by data scraped from Amazon,
 Users can querey their favourite toy brands, as well as the products from these companies.
 
 # How?
-The back-end is implemented with Django, the front end is powered by plugins such as Bootstrap and Graph.js, and the data is scraped from Amazon.co.uk from ParseHub, as well as datasets found from Kaggle and https://jmcauley.ucsd.edu/data/amazon/
+The back-end is implemented with Django, the front end is powered by plugins such as Bootstrap and Graph.js, and the data is scraped from Amazon.co.uk from ParseHub, as well as datasets found from Kaggle.
 
 # File information
 within the root directory you will find the following files:
-1. toys_and_games.csv -> A massive dataset pulled directly from https://jmcauley.ucsd.edu/data/amazon/
+1. toys_and_games.csv -> A massive dataset regarding the toys and games category found on Amazon
 2. top.pkl !depreciated -> A list of top 10 toy brands found within my dataset
 3. tomy_toys.csv -> data I have personally scraped from Amazon.co.uk via ParseHub. This CSV is merged into the master CSV in sentiment.py
 4. test.csv !DEBUG -> an output CSV generated in PANDAS based on user queries
