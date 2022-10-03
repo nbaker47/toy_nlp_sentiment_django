@@ -15,7 +15,7 @@ This is a sentiment analyer for toy brands. Powered by data scraped from Amazon,
 Users can querey their favourite toy brands, as well as the products from these companies.
 
 # How?
-The back-end is implemented with Django, the front end is powered by plugins such as Bootstrap and Graph.js, and the data is scraped from Amazon.co.uk from ParseHub, as well as datasets found from Kaggle.
+The back-end is implemented with Django & NLTK, the front end is powered by plugins such as Bootstrap and Graph.js, and the data is scraped from Amazon.co.uk from ParseHub, as well as datasets found from Kaggle.
 
 # File information
 within the root directory you will find the following files:
